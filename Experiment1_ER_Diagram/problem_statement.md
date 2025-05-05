@@ -45,13 +45,13 @@ Design a database for patient management, appointments, medical records, and bil
    - Why you chose the entities and relationships.
    - How you modeled prerequisites or billing.
 
-# ER Diagram Submission - Cynthia Mehul J
+# ER Diagram Submission - Cynthia Mehul (212223240020)
 
 ## Scenario Chosen:
 University / Hospital (choose one)
 
 ## ER Diagram:
-![ER Diagram](er_diagram.png)
+![Hospital ER](https://github.com/user-attachments/assets/5890c2bb-9551-497d-8ddd-759dad4110d9)
 
 ## Entities and Attributes:
 - Department of Specialization - Department ID, Head of Department, Department Name
